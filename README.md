@@ -1,372 +1,129 @@
-# 👋 Hi, I'm Kunal Naik
+<!-- ===================== HERO ===================== -->
+<div align="center">
 
-### Applied AI Engineer | Machine Learning | Generative AI | MLOps
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:06B6D4&height=220&section=header&text=Kunal%20Naik&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=AI%20Engineer%20%7C%20Machine%20Learning%20%7C%20Generative%20AI%20%7C%20MLOps&descAlignY=60&descSize=17" width="100%" alt="Kunal Naik profile header" />
 
-<p align="left">
-  <a href="https://github.com/kunalnaik46">
-    <img src="https://img.shields.io/badge/GitHub-kunalnaik46-181717?style=for-the-badge&logo=github" alt="GitHub profile" />
-  </a>
-  <a href="mailto:kunalnaik436@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <img src="https://img.shields.io/badge/Location-Navi%20Mumbai-0A66C2?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
-</p>
-
-I am an AI Engineer passionate about building intelligent, data-driven applications using Machine Learning, Deep Learning, Generative AI, Computer Vision, and Natural Language Processing.
-
-My work focuses on the complete AI development lifecycle — from data collection and preprocessing to model training, evaluation, API development, deployment, and monitoring. I enjoy solving practical problems by combining machine learning algorithms, LLM-based workflows, and production-oriented software engineering.
-
-I am particularly interested in making AI systems **accurate, explainable, maintainable, and useful in real-world applications**.
-
----
-
-# 🧑‍💻 About Me
-
-- 💼 **Current role:** AI Engineer at PipeTech AI Pvt. Ltd.
-- 🧠 **Core expertise:** Machine Learning, Deep Learning, Generative AI, and NLP
-- 🤖 **LLM applications:** Retrieval-Augmented Generation (RAG), embeddings, and agentic workflows
-- 👁️ **Computer vision:** Image processing, OCR, object detection, and document intelligence
-- ⚙️ **MLOps:** Experiment tracking, model versioning, Docker, CI/CD, and deployment
-- 🔌 **Model serving:** Building APIs and inference workflows using FastAPI
-- 📊 **Data science:** Data preprocessing, feature engineering, exploratory analysis, and model evaluation
-- 🌱 **Continuous learning:** LLM application architecture, reliable ML deployment, and AI system design
-- 📍 **Based in:** Navi Mumbai, Maharashtra, India
-
-### My Engineering Philosophy
-
-I believe an AI solution is more than a trained model. A useful AI system needs reliable data, appropriate evaluation metrics, reproducible experiments, dependable inference, and clear interfaces for users and downstream applications.
-
-My goal is to build AI applications that combine sound machine learning fundamentals with practical software engineering.
-
----
-
-# 🛠️ Technical Skills
-
-## 1. Programming & Data Processing
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1000&color=38BDF8&center=true&vCenter=true&width=720&lines=Building+practical+AI+systems;Machine+Learning+%7C+LLMs+%7C+RAG;Computer+Vision+%7C+NLP+%7C+MLOps;From+data+to+deployment" alt="Typing animation" /></a>
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <a href="https://github.com/kunalnaik46"><img src="https://img.shields.io/badge/GitHub-kunalnaik46-111827?style=for-the-badge&logo=github" alt="GitHub" /></a>
+  <a href="mailto:kunalnaik436@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-DB4437?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://img.shields.io/badge/Location-Navi%20Mumbai-0F766E?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
 </p>
 
-- Python programming and data structures
-- Data cleaning, transformation, and validation
-- Exploratory Data Analysis (EDA)
-- Missing-value handling and outlier analysis
-- Statistical analysis and feature engineering
-- Data manipulation with NumPy and Pandas
-- Data visualization and analytical reporting
+</div>
 
-## 2. Machine Learning
+👨‍💻 About Me
+I'm an AI Engineer at PipeTech AI Pvt. Ltd. interested in building useful AI systems across Machine Learning, Deep Learning, Generative AI, Computer Vision, and NLP. I work across the model lifecycle—from data preparation and evaluation to API integration and deployment.
+- 🔭 Focus: practical AI/ML applications and engineering-focused AI
+- 🧠 Generative AI: LLM applications, RAG, embeddings, and agentic workflows
+- 👁️ Computer vision: image processing, OCR, object detection, and document intelligence
+- ⚙️ MLOps: experiment tracking, versioning, containerization, CI/CD, and model serving
+- 🌱 Currently learning: better evaluation, reliability, and production patterns for AI systems
+- 📍 Location: Navi Mumbai, Maharashtra, India
+I believe a useful AI solution needs more than a model: it needs reliable data, meaningful evaluation, reproducible experiments, and dependable delivery.
 
-<p>
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
-</p>
+🧰 Tech Stack
+<div align="center">
 
-- Supervised and unsupervised learning
-- Regression and classification
-- Feature selection and feature engineering
-- Model training, validation, and testing
-- Cross-validation and hyperparameter tuning
-- Classification and regression evaluation metrics
-- Probability calibration and model interpretability
-- SHAP-based explainability
-- Reproducible model development
+Languages & Data
+<img src="https://skillicons.dev/icons?i=python,mysql,numpy,pandas&theme=dark" alt="Python and data tools" />
 
-## 3. Deep Learning
+ML, Deep Learning & Computer Vision
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark" alt="ML and computer vision tools" />
 
-<p>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-</p>
+APIs, MLOps & Cloud
+<img src="https://skillicons.dev/icons?i=fastapi,docker,aws,git,github,githubactions,kubernetes&theme=dark" alt="Deployment and MLOps tools" />
 
-- Neural network fundamentals
-- Forward propagation and backpropagation
-- Convolutional Neural Networks (CNNs)
-- Recurrent Neural Networks (RNNs)
-- LSTM and GRU architectures
-- Training, validation, and loss analysis
-- Model evaluation and inference
-- Transfer learning and deep learning workflows
+</div>
 
-## 4. Generative AI & LLM Applications
+Also work with: Scikit-learn · MLflow · DVC · LangChain · LangGraph · RAG · SHAP · OCR · YOLO · Prometheus · Grafana · Jupyter
+🚀 Featured Projects
+01 · Credit Risk ML System — End-to-End MLOps
+Python · Scikit-learn · SHAP · FastAPI · Docker · MLflow
+- Built an end-to-end workflow for credit-risk prediction, from data preparation through model evaluation.
+- Used SHAP-based explainability and probability calibration to support more interpretable predictions.
+- Exposed model inference through a FastAPI service.
+- Structured the workflow around experiment tracking, model management, containerization, and deployment.
+02 · End-to-End MLOps Capstone
+Python · MLflow · DVC · Docker · CI/CD
+- Developed a reproducible pipeline for data processing, model training, and evaluation.
+- Applied data/model versioning and experiment tracking.
+- Integrated containerization and CI/CD automation into the lifecycle.
+- Included deployment and monitoring workflows.
+03 · End-to-End NLP System
+Python · Deep Learning · NLP · FastAPI · Docker
+- Developed a deep-learning workflow for automated text processing and prediction.
+- Implemented preprocessing, training, evaluation, and inference.
+- Served predictions through FastAPI and packaged the application for deployment.
+04 · Industrial Engineering Document Intelligence
+Python · OpenCV · OCR · Computer Vision · LLM/RAG concepts
 
-<p>
-  <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge" alt="Large Language Models" />
-  <img src="https://img.shields.io/badge/RAG-6A5ACD?style=for-the-badge" alt="Retrieval-Augmented Generation" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" alt="LangChain" />
-  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge" alt="LangGraph" />
-</p>
-
-- Large Language Model (LLM) integration
-- Prompt design and structured outputs
-- Text embeddings and semantic retrieval
-- Retrieval-Augmented Generation (RAG)
-- Document ingestion and chunking
-- Vector search and knowledge retrieval
-- Agentic AI workflows
-- Multi-step task orchestration
-- LLM output validation and evaluation
-- Context management and hallucination reduction
-
-## 5. Computer Vision & NLP
-
-<p>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
-  <img src="https://img.shields.io/badge/YOLO-111F68?style=for-the-badge" alt="YOLO" />
-  <img src="https://img.shields.io/badge/OCR-2E8B57?style=for-the-badge" alt="OCR" />
-</p>
-
-- Image preprocessing and enhancement
-- Image classification and object detection
-- OCR-based text extraction
-- Document and diagram understanding
-- Image annotation and dataset preparation
-- Text preprocessing and NLP pipelines
-- Text classification and semantic analysis
-- Combining visual information with extracted text
-
-## 6. MLOps, Cloud & Deployment
-
-<p>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow" />
-  <img src="https://img.shields.io/badge/DVC-945DD6?style=for-the-badge" alt="DVC" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus" />
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
-</p>
-
-- REST API development with FastAPI
-- Model inference and serving
-- Docker-based containerization
-- Experiment tracking with MLflow
-- Dataset and model versioning with DVC
-- CI/CD workflow automation
-- AWS services: S3, ECR, and EC2
-- Deployment workflows and application monitoring
-- Model lifecycle and reproducibility practices
-
----
-
-# 🚀 Featured Projects
-
-## 01 — Credit Risk ML System | End-to-End MLOps
-
-**Objective:** Develop a machine learning workflow to predict credit risk and expose predictions through an API.
-
-**Technology:** Python · Scikit-learn · SHAP · FastAPI · Docker · MLflow
-
-### Key Components
-
-- **Data pipeline:** Prepare and validate data before model training.
-- **Feature engineering:** Transform input variables into model-ready features.
-- **Model development:** Train and evaluate a credit risk prediction model.
-- **Explainability:** Use SHAP to help interpret model predictions.
-- **Probability calibration:** Improve the reliability of predicted probabilities.
-- **Inference API:** Serve model predictions using FastAPI.
-- **MLOps workflow:** Support experiment tracking, model management, and reproducible deployment.
-
-**Engineering focus:** Reproducibility, explainability, model serving, and maintainable ML workflows.
-
-## 02 — End-to-End MLOps Capstone
-
-**Objective:** Build a reproducible ML lifecycle covering data processing, training, evaluation, and deployment.
-
-**Technology:** Python · MLflow · DVC · Docker · CI/CD
-
-### Key Components
-
-- Organize data preprocessing and model training into a repeatable workflow.
-- Track experiments and model performance.
-- Version datasets and model artifacts.
-- Package the application using Docker.
-- Automate workflow steps through CI/CD.
-- Support deployment and operational monitoring.
-
-**Engineering focus:** Reproducible experimentation, automation, versioning, and model lifecycle management.
-
-## 03 — End-to-End NLP System
-
-**Objective:** Develop a deep learning application for automated text processing and prediction.
-
-**Technology:** Python · Deep Learning · NLP · FastAPI · Docker
-
-### Key Components
-
-- Prepare and preprocess text inputs.
-- Develop and evaluate a deep learning model.
-- Implement an inference workflow for new text inputs.
-- Expose predictions through a FastAPI endpoint.
-- Containerize the application for deployment-oriented serving.
-
-**Engineering focus:** NLP pipelines, model inference, API integration, and application packaging.
-
-## 04 — Industrial Engineering Document Intelligence
-
-**Focus:** Applying AI and computer vision to complex industrial engineering documents.
-
-**Technologies explored:** Python · OpenCV · OCR · Computer Vision · LLMs · RAG
-
-### Problem Area
-
-Industrial diagrams contain symbols, labels, line information, and relationships that can be difficult to extract reliably from PDFs and scanned documents.
-
-### Engineering Directions
-
-- PDF ingestion and high-resolution page rendering
-- Symbol and text recognition
-- OCR-based label extraction
-- Legend and symbol-reference analysis
-- Structured extraction into JSON and tabular data
-- Relationship and connectivity reconstruction
-- Knowledge retrieval for engineering documentation
-
-**Engineering focus:** Combining computer vision, document processing, and structured engineering data extraction.
-
-*This section describes an engineering application area you're working on; it does not claim that every capability listed is already production-complete.*
-
----
-
-# 🏗️ How I Approach AI Systems
-
-My general approach to building an AI application follows a structured lifecycle.
-
-```text
+An engineering application area focused on extracting useful structured information from complex technical documents and diagrams.
+- PDF ingestion and page rendering
+- Symbol and text recognition with OCR support
+- Legend/reference analysis and structured JSON extraction
+- Exploring relationships between detected elements and engineering information
+Project descriptions reflect work areas and capabilities described in my resume; not every listed direction represents a completed public release.
+🏗️ How I Approach AI Systems
 Problem Definition
-       |
-       v
+       ↓
 Data Collection & Validation
-       |
-       v
+       ↓
 Preprocessing & Feature Engineering
-       |
-       v
+       ↓
 Model Development & Experimentation
-       |
-       v
+       ↓
 Evaluation & Error Analysis
-       |
-       v
+       ↓
 API Integration & Model Serving
-       |
-       v
+       ↓
 Containerization & Deployment
-       |
-       v
+       ↓
 Monitoring & Iterative Improvement
-```
+Engineering principle	Why it matters
+Data quality	Reduces errors from unreliable inputs
+Reproducibility	Makes experiments easier to repeat and audit
+Evaluation	Measures performance against relevant metrics
+Explainability	Helps interpret predictions where appropriate
+Versioning	Tracks code, data, and model changes
+Monitoring	Helps surface operational problems
 
-### Core Engineering Principles
 
-| Principle | Purpose |
-|---|---|
-| Data quality | Reduce errors introduced by unreliable input data |
-| Reproducibility | Make experiments and results easier to reproduce |
-| Model evaluation | Measure performance against appropriate metrics |
-| Explainability | Improve understanding of model predictions where applicable |
-| API design | Make model functionality accessible to other applications |
-| Version control | Track code, data, and model changes |
-| Monitoring | Identify operational issues and performance changes |
+📊 GitHub Dashboard
+<div align="center">
 
----
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=kunalnaik46&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true" alt="GitHub statistics" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunalnaik46&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
 
-# 🧪 AI & ML Areas of Interest
+<img width="70%" src="https://streak-stats.demolab.com?user=kunalnaik46&theme=tokyonight&hide_border=true" alt="Contribution streak" />
 
-### Machine Learning
-- Classification and regression
-- Feature engineering and model selection
-- Cross-validation and hyperparameter optimization
-- Model explainability and evaluation
+</div>
 
-### Generative AI
-- RAG architecture and retrieval quality
-- Embedding models and vector search
-- LLM evaluation and structured outputs
-- Agentic workflows and tool orchestration
+🐍 Contribution Snake
+<!-- The image below appears after the GitHub Actions workflow runs successfully at least once. -->
+<div align="center">
 
-### Computer Vision
-- Object detection and classification
-- OCR and document intelligence
-- Image preprocessing and visual feature extraction
-- Diagram understanding and spatial relationships
 
-### MLOps
-- Experiment tracking and artifact management
-- Data and model versioning
-- Automated testing and CI/CD
-- Model serving, containerization, and monitoring
+</div>
 
----
-
-# 📊 GitHub Statistics
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kunalnaik46&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub profile statistics" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunalnaik46&layout=compact&theme=tokyonight&hide_border=true" alt="Most-used programming languages" />
-</p>
-
-<p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=kunalnaik46&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-</p>
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kunalnaik46&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph" />
-</p>
-
----
-
-# 🎓 Education
-
-### Bachelor of Engineering — Computer Engineering
-**Savitribai Phule Pune University**  
-January 2021 – May 2025
-
-### Diploma — Information Technology
-**Bharati Vidyapeeth Institute of Technology**  
-June 2017 – December 2020
-
----
-
-# 📜 Certifications
-
+🎓 Education & Certifications
+- B.E., Computer Engineering — Savitribai Phule Pune University · 2021–2025
+- Diploma, Information Technology — Bharati Vidyapeeth Institute of Technology · 2017–2020
 - Data Analytics Essentials — Cisco, 2024
 - Introduction to Data Science — Cisco, 2024
+🤝 Let's Connect
+<div align="center">
 
----
+<a href="https://github.com/kunalnaik46"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
+<a href="mailto:kunalnaik436@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</div>
 
-# 🤝 Let's Connect
 
-I'm interested in connecting with AI engineers, ML practitioners, and developers working on practical AI applications, Generative AI, computer vision, and production ML systems.
+LinkedIn: Add your personal LinkedIn URL here.
+<div align="center">
 
-<p align="left">
-  <a href="https://github.com/kunalnaik46">
-    <img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="mailto:kunalnaik436@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Get%20in%20Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:1D4ED8,100:0F172A&height=100&section=footer" width="100%" alt="Footer banner" />
 
-📧 **Email:** kunalnaik436@gmail.com  
-📍 **Location:** Navi Mumbai, Maharashtra, India
 
----
-
-<p align="center">
-  <i>"Turning data into intelligence and ideas into practical AI systems."</i>
-</p>
-
-<p align="center">
-  ⭐ If you find my work interesting, explore my repositories and follow my journey in AI engineering.
-</p>
+“Turning data into intelligence and ideas into practical AI systems.” 🚀
+</div>
