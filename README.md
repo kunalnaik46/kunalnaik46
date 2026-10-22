@@ -100,11 +100,9 @@ Monitoring	Helps surface operational problems
 </div>
 
 🐍 Contribution Snake
-<!-- The image below appears after the GitHub Actions workflow runs successfully at least once. -->
-<div align="center">
-
-
-</div>
+<p align="center">
+  <i>The contribution animation will appear here after the GitHub Actions workflow publishes the generated SVG to the <code>output</code> branch.</i>
+</p>
 
 🎓 Education & Certifications
 - B.E., Computer Engineering — Savitribai Phule Pune University · 2021–2025
@@ -119,11 +117,11 @@ Monitoring	Helps surface operational problems
 </div>
 
 
-LinkedIn: Add your personal LinkedIn URL here.
+LinkedIn: Add your LinkedIn profile URL when ready.
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:1D4ED8,100:0F172A&height=100&section=footer" width="100%" alt="Footer banner" />
 
 
 “Turning data into intelligence and ideas into practical AI systems.” 🚀
-</div>
+</di
