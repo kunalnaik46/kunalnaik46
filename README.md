@@ -1,62 +1,226 @@
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Kunal%20Naik&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20Engineer&descSize=24&descAlignY=58" alt="Kunal Naik - AI Engineer banner" width="100%" /> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=1000&color=58A6FF&center=true&vCenter=true&width=760&height=40&lines=Machine+Learning+%7C+Deep+Learning+%7C+Generative+AI;LLMs+%C2%B7+RAG+%C2%B7+Agentic+AI+%C2%B7+Computer+Vision+%C2%B7+NLP;From+data+to+deployment%3A+end-to-end+AI+and+MLOps" alt="Typing animation: Machine Learning, Deep Learning, Generative AI, MLOps" /> <br />
+ <div align="center">
 
-<a href="https://github.com/kunalnaik46"><img src="https://img.shields.io/badge/GitHub-kunalnaik46-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a> <a href="https://www.linkedin.com/in/kunalnaik46/"><img src="https://img.shields.io/badge/LinkedIn-Kunal%20Naik-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="mailto:kunalnaik436@gmail.com"><img src="https://img.shields.io/badge/Email-kunalnaik436%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://github.com/kunalnaik46">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1220,55:13243A,100:0B1220&height=170&section=header&text=KUNAL%20NAIK&fontSize=48&fontColor=F8FAFC&fontAlignY=42&desc=APPLIED%20AI%20%2F%20MACHINE%20LEARNING%20ENGINEER&descSize=14&descAlignY=68&descColor=38BDF8" width="100%" alt="Kunal Naik — Applied AI and Machine Learning Engineer"/>
+</a>
 
-</div> <br /> <h2 align="center">👨‍💻 Professional Summary</h2> <p align="center"> AI Engineer with hands-on experience developing <b>machine learning, deep learning, and Generative AI</b> systems.<br /> Experienced in Python, PyTorch, TensorFlow, and Scikit-learn, with practical work in <b>LLMs, RAG, agentic AI, computer vision, and NLP</b>.<br /> I build end-to-end AI solutions: data preprocessing, feature engineering, model development, evaluation, API development, MLOps, and production deployment. </p> <p align="center"> <b>Currently:</b> AI Engineer at <b>PipeTech AI Pvt. Ltd.</b> (formerly Chemtech AI Technologies) </p> <br /> <h2 align="center">🧠 Core Expertise</h2> <table align="center"> <tr> <td width="50%" valign="top"> <h4>🤖 Machine Learning</h4> Supervised and unsupervised learning, feature engineering, model evaluation </td> <td width="50%" valign="top"> <h4>🧬 Deep Learning</h4> Neural networks, CNNs, RNNs, LSTM, GRU with PyTorch and TensorFlow </td> </tr> <tr> <td width="50%" valign="top"> <h4>✨ Generative AI</h4> LLMs, RAG, agentic AI, LangChain, LangGraph, embeddings </td> <td width="50%" valign="top"> <h4>👁️ Computer Vision and NLP</h4> OpenCV, YOLO, OCR, object detection, NLP pipelines </td> </tr> <tr> <td width="50%" valign="top"> <h4>⚙️ MLOps</h4> Experiment tracking, data and model versioning, CI/CD, containerization </td> <td width="50%" valign="top"> <h4>🚀 Deployment and APIs</h4> FastAPI inference services, Docker, Kubernetes, AWS </td> </tr> </table> <br /> <h2 align="center">🛠️ Technology Stack</h2> <h3 align="center">Programming and Data Processing</h3> <p align="center"> <img src="https://skillicons.dev/icons?i=py,postgres,git,jupyter,pandas,numpy&theme=dark" alt="Python, SQL, Git, Jupyter, Pandas, NumPy" /> </p> <h3 align="center">Machine Learning and Deep Learning</h3> <p align="center"> <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" alt="PyTorch, TensorFlow, Scikit-learn" /> </p> <h3 align="center">Generative AI and LLMs</h3> <p align="center"> <img src="https://skillicons.dev/icons?i=langchain&theme=dark" alt="LangChain" /> </p> <p align="center"> <code>LLMs</code> · <code>RAG</code> · <code>Agentic AI</code> · <code>LangChain</code> · <code>LangGraph</code> · <code>Embeddings</code> </p> <h3 align="center">Computer Vision and NLP</h3> <p align="center"> <img src="https://skillicons.dev/icons?i=opencv&theme=dark" alt="OpenCV" /> </p> <p align="center"> <code>OpenCV</code> · <code>YOLO</code> · <code>OCR</code> · <code>Object Detection</code> · <code>NLP</code> </p> <h3 align="center">MLOps, Cloud and Deployment</h3> <p align="center"> <img src="https://skillicons.dev/icons?i=fastapi,docker,kubernetes,githubactions,prometheus,grafana,aws&theme=dark" alt="FastAPI, Docker, Kubernetes, GitHub Actions, Prometheus, Grafana, AWS" /> </p> <p align="center"> <code>MLflow</code> · <code>DVC</code> · <code>CI/CD</code> · <code>AWS S3</code> · <code>AWS ECR</code> · <code>AWS EC2</code> </p> <br /> <h2 align="center">💼 Experience</h2> <h3>AI Engineer · PipeTech AI Pvt. Ltd. (formerly Chemtech AI Technologies)</h3>
+<br/>
 
-<b>Aug 2025 – Present</b>
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=900&color=FF9843&center=true&vCenter=true&width=650&lines=Building+practical+AI+systems.;Turning+ML+experiments+into+applications.;Exploring+computer+vision+%26+LLMs.;Learning%2C+building%2C+and+shipping." alt="Animated introduction"/>
+</a>
 
-AI Engineer (May 2026 – Present): Develop end-to-end ML and DL solutions with Python, PyTorch, and TensorFlow for engineering-focused AI applications. Build LLM and Generative AI workflows using RAG, agentic AI, and data pipelines that support model development, evaluation, and production deployment.
-AI Engineer (Nov 2025 – Apr 2026): Developed ML/DL solutions covering data preprocessing, feature engineering, model development, and evaluation. Implemented LLM and Generative AI workflows for engineering applications and integrated model outputs with structured data-processing pipelines.
-AI Engineering Intern (Aug 2025 – Nov 2025): Supported ML/DL model development through data preprocessing and feature engineering, improving training efficiency by 15% and reducing data-related errors. Contributed to computer vision and NLP automation projects in Python, accelerating prototype development by 20–25%.
-<br /> <h2 align="center">🚀 Featured Projects</h2> <p align="center">Source code is available on my <a href="https://github.com/kunalnaik46?tab=repositories">repositories page</a>.</p> <h3>1. Credit Risk ML System – End-to-End MLOps</h3>
+<br/>
 
-<b>Objective:</b> Build an end-to-end credit risk machine learning system, from raw data to a deployed prediction service.
+[![GitHub](https://img.shields.io/badge/GitHub-0B1220?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/kunalnaik46)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-38BDF8?style=for-the-badge&logo=linkedin&logoColor=0B1220)](https://www.linkedin.com/in/kunalnaik46/)
+[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-FF9843?style=for-the-badge&logo=render&logoColor=0B1220)](https://mental-health-score-1-ew8o.onrender.com)
 
-<br /><br />
+</div>
 
-<b>Stack:</b> <code>Python</code> · <code>Scikit-learn</code> · <code>SHAP</code> · <code>FastAPI</code> · <code>Docker</code>
+---
 
-Covers data preprocessing, feature engineering, model training, evaluation, and risk prediction.
-Applies SHAP-based explainability and probability calibration to improve interpretability and prediction reliability.
-Exposes predictions through a FastAPI inference service.
-Implements an MLOps workflow for reproducible training, experiment tracking, model management, containerization, and deployment.
-<br /> <h3>2. End-to-End MLOps Capstone</h3>
+## `01 / ABOUT ME`
 
-<b>Objective:</b> Build a reproducible ML pipeline that follows the full MLOps lifecycle.
+I'm an **Applied AI/ML Engineer** interested in building practical machine learning systems, computer vision pipelines, and AI-powered applications.
 
-<br /><br />
+My focus is on moving beyond notebooks: building systems that process real inputs, expose useful functionality, and can be deployed and tested.
 
-<b>Stack:</b> <code>Python</code> · <code>MLflow</code> · <code>DVC</code> · <code>Docker</code> · <code>GitHub Actions</code> · <code>CI/CD</code>
+- **AI/ML:** Model development, feature engineering, evaluation, and inference.
+- **Computer vision:** Image processing, object detection, and document understanding.
+- **AI engineering:** LLM integration, structured extraction, and local model experimentation.
+- **Deployment:** Python applications, REST APIs, and container/cloud deployment fundamentals.
 
-Pipeline covers data processing, model training, evaluation, and reproducible workflow management.
-Implements data and model versioning, experiment tracking, Docker-based containerization, CI/CD automation, and deployment.
-Adds monitoring and operational workflows to support reliable model serving and lifecycle management.
-<br /> <h3>3. End-to-End NLP System – Deep Learning & FastAPI</h3>
+<details>
+<summary><strong>▸ What I'm currently exploring</strong></summary>
 
-<b>Objective:</b> Develop a deep learning NLP system for automated text processing and prediction, served through an API.
+- Production-oriented AI/ML engineering
+- Document intelligence and engineering drawing analysis
+- Reliable computer vision and OCR pipelines
+- Model serving, testing, and MLOps fundamentals
 
-<br /><br />
+</details>
 
-<b>Stack:</b> <code>Python</code> · <code>Deep Learning</code> · <code>NLP</code> · <code>FastAPI</code> · <code>Docker</code>
+---
 
-Implements data preprocessing, model training, evaluation, and inference.
-Exposes the trained model through a FastAPI service.
-Containerized and deployed to support production-oriented model serving.
-<br /> <h2 align="center">🔄 Engineering Workflow</h2> <p align="center"> <b>Problem Definition</b> ➜ <b>Data Preparation</b> ➜ <b>Model Development</b> ➜ <b>Evaluation</b> ➜ <b>API and Deployment</b> ➜ <b>Monitoring</b> </p> <br /> <h2 align="center">📊 GitHub Dashboard</h2> <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kunalnaik46&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=7C3AED" alt="GitHub statistics" width="48%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunalnaik46&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF" alt="Most used languages" width="48%" /> <br /> <img src="https://streak-stats.demolab.com/?user=kunalnaik46&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub contribution streak" width="70%" /> <br /> <img src="https://github-readme-activity-graph.vercel.app/graph?username=kunalnaik46&theme=tokyo-night&hide_border=true&bg_color=0D1117&area=true" alt="GitHub contribution activity graph" width="95%" /> </div> <br /> <h2 align="center">🎓 Education and Certifications</h2> <h3>Education</h3>
-Bachelor of Engineering in Computer Engineering, Savitribai Phule Pune University (Jan 2021 – May 2025)
-Diploma in Information Technology, Bharati Vidyapeeth Institute of Technology (Jun 2017 – Dec 2020)
-<h3>Certifications</h3>
-Data Analytics Essentials, Cisco (2024)
-Introduction to Data Science, Cisco (2024)
-<br /> <h2 align="center">📬 Contact</h2> <div align="center">
+## `02 / FEATURED WORK`
 
-<a href="https://github.com/kunalnaik46"><img src="https://img.shields.io/badge/GitHub-kunalnaik46-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a> <a href="https://www.linkedin.com/in/kunalnaik46/"><img src="https://img.shields.io/badge/LinkedIn-Kunal%20Naik-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="mailto:kunalnaik436@gmail.com"><img src="https://img.shields.io/badge/Email-kunalnaik436%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<br /> <br />
+### 🟠 Mental Health Score
 
-<b>I build AI systems that go beyond notebooks, from clean data pipelines to reliable, deployed models.</b>
+**Student Wellness Analytics**
 
-Open to conversations about AI/ML engineering, Generative AI, and MLOps.
+A deployed machine learning application that predicts a student wellness score from lifestyle and digital-habit inputs.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" alt="Footer wave" width="100%" /> </div>
+`PYTHON` `SCIKIT-LEARN` `FASTAPI`
+
+<a href="https://mental-health-score-1-ew8o.onrender.com">
+  <img src="https://img.shields.io/badge/OPEN_LIVE_DEMO-FF9843?style=for-the-badge&logo=render&logoColor=0B1220" alt="Open live demo"/>
+</a>
+
+<details>
+<summary>Explore project</summary>
+
+- Regression-based prediction pipeline.
+- Feature preprocessing with `ColumnTransformer`.
+- API-based inference using FastAPI.
+- Interactive web interface.
+
+[Launch application](https://mental-health-score-1-ew8o.onrender.com)
+
+</details>
+
+</td>
+<td width="50%" valign="top">
+
+### 🔵 Cat & Dog Classification
+
+**Image Classification**
+
+A computer vision project focused on classifying images into cat and dog categories.
+
+`PYTHON` `COMPUTER VISION` `MACHINE LEARNING`
+
+<a href="https://github.com/kunalnaik46/cat-dog-classification">
+  <img src="https://img.shields.io/badge/VIEW_REPOSITORY-38BDF8?style=for-the-badge&logo=github&logoColor=0B1220" alt="View repository"/>
+</a>
+
+<details>
+<summary>Explore project</summary>
+
+Explore the repository for the implementation, training workflow, and available experiments.
+
+[Open repository](https://github.com/kunalnaik46/cat-dog-classification)
+
+</details>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🟠 SMS Classifier
+
+**Text Classification**
+
+A machine learning project focused on classifying SMS messages.
+
+`PYTHON` `NLP` `CLASSIFICATION`
+
+<a href="https://github.com/kunalnaik46/sms-classifier">
+  <img src="https://img.shields.io/badge/VIEW_REPOSITORY-FF9843?style=for-the-badge&logo=github&logoColor=0B1220" alt="View repository"/>
+</a>
+
+<details>
+<summary>Explore project</summary>
+
+Explore the repository for the available text-processing, training, and classification implementation.
+
+[Open repository](https://github.com/kunalnaik46/sms-classifier)
+
+</details>
+
+</td>
+<td width="50%" valign="top">
+
+### 🔵 Machine Learning
+
+**ML Experiments & Practice**
+
+A repository for exploring machine learning concepts and implementations.
+
+`PYTHON` `SCIKIT-LEARN` `ML`
+
+<a href="https://github.com/kunalnaik46/Machine-learning">
+  <img src="https://img.shields.io/badge/VIEW_REPOSITORY-38BDF8?style=for-the-badge&logo=github&logoColor=0B1220" alt="View repository"/>
+</a>
+
+<details>
+<summary>Explore project</summary>
+
+Browse the repository to review the available implementations and experiments.
+
+[Open repository](https://github.com/kunalnaik46/Machine-learning)
+
+</details>
+
+</td>
+</tr>
+</table>
+
+---
+
+## `03 / TECH STACK`
+
+<details open>
+<summary><strong>▸ Languages & data</strong></summary>
+
+<br/>
+
+![Python](https://img.shields.io/badge/Python-0B1220?style=flat-square&logo=python&logoColor=38BDF8)
+![NumPy](https://img.shields.io/badge/NumPy-0B1220?style=flat-square&logo=numpy&logoColor=38BDF8)
+![Pandas](https://img.shields.io/badge/Pandas-0B1220?style=flat-square&logo=pandas&logoColor=FF9843)
+![SQL](https://img.shields.io/badge/SQL-0B1220?style=flat-square&logo=postgresql&logoColor=38BDF8)
+
+</details>
+
+<details>
+<summary><strong>▸ Machine learning & AI</strong></summary>
+
+<br/>
+
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0B1220?style=flat-square&logo=scikitlearn&logoColor=FF9843)
+![PyTorch](https://img.shields.io/badge/PyTorch-0B1220?style=flat-square&logo=pytorch&logoColor=FF9843)
+![OpenCV](https://img.shields.io/badge/OpenCV-0B1220?style=flat-square&logo=opencv&logoColor=38BDF8)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-0B1220?style=flat-square&logo=huggingface&logoColor=FF9843)
+
+</details>
+
+<details>
+<summary><strong>▸ APIs & deployment</strong></summary>
+
+<br/>
+
+![FastAPI](https://img.shields.io/badge/FastAPI-0B1220?style=flat-square&logo=fastapi&logoColor=38BDF8)
+![Git](https://img.shields.io/badge/Git-0B1220?style=flat-square&logo=git&logoColor=FF9843)
+![Docker](https://img.shields.io/badge/Docker-0B1220?style=flat-square&logo=docker&logoColor=38BDF8)
+![Render](https://img.shields.io/badge/Render-0B1220?style=flat-square&logo=render&logoColor=38BDF8)
+
+</details>
+
+---
+
+## `04 / GITHUB ACTIVITY`
+
+<div align="center">
+
+<a href="https://github.com/kunalnaik46">
+  <img src="https://github-readme-stats.vercel.app/api?username=kunalnaik46&show_icons=true&hide_border=true&bg_color=0B1220&title_color=FF9843&icon_color=38BDF8&text_color=CBD5E1&ring_color=FF9843" height="165" alt="GitHub statistics"/>
+</a>
+<a href="https://github.com/kunalnaik46">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunalnaik46&layout=compact&hide_border=true&bg_color=0B1220&title_color=FF9843&text_color=CBD5E1" height="165" alt="Most-used languages"/>
+</a>
+
+</div>
+
+---
+
+## `05 / LET'S CONNECT`
+
+Interested in AI engineering, practical ML applications, computer vision, and meaningful engineering problems.
+
+If you're working on something interesting in these areas, let's connect.
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/Explore_My_Repositories-FF9843?style=for-the-badge&logo=github&logoColor=0B1220)](https://github.com/kunalnaik46?tab=repositories)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-38BDF8?style=for-the-badge&logo=linkedin&logoColor=0B1220)](https://www.linkedin.com/in/kunalnaik46/)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1220,100:13243A&height=75&section=footer&text=BUILD.%20LEARN.%20ITERATE.&fontSize=20&fontColor=38BDF8" width="100%" alt="Build. Learn. Iterate."/>
+
+</div>
